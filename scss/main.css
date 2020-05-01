@@ -1855,6 +1855,11 @@ body {
   z-index: 9;
 }
 
+.logo-small {
+  height: 30px;
+  width: 100%;
+}
+
 .menu-bar {
   cursor: pointer;
 }
